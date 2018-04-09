@@ -1,0 +1,11 @@
+{
+  "name": "yosoku",
+  "version": "1.0.0",
+  "repository": "git@github.com:phji/yosoku.git",
+  "author": "Kazutoshi Fujimoto <kazutoshifujimoto@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "truffle": "^4.1.5",
+    "zeppelin-solidity": "^1.8.0"
+  }
+}
